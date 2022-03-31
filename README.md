@@ -1,5 +1,5 @@
 # PORTFOLIO PROJECTS (USING JUPYTER NOTEBOOK)
-My portfolio showing my data cleaning, manipulation and visualization skills
+This Repository contains my portfolio projects showing my data cleaning, manipulation and visualization skills
 This portfolio contains the use of  PANDAS, SEABORN, PLOTLY, MATPLOTLIB, and NUMPY
 
 For Further questions about any thing in my portfolio project, please leave a message, I will get back to it as soon as I can.
